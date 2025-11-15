@@ -28,25 +28,28 @@ Note: **GitHub Profile/name be must your full name or family name for grading**
   - [ ] Create `api.yaml` and add endpoints
   - [ ] Commit and push all files to GitHub
 
-### Milestone 2 (Nov Week 2): Half API + Half Documentation + Git/GitHub
+### Milestone 2 (Nov Week 2): API Foundation & Basic Documentation
 
 - **What we'll do:**
-  - Initialize repo, set up virtualenv, install Flask/SQLite (or chosen stack).
-  - Build core endpoints (create/list) for 1–2 resources.
-  - Read out OpenAPI docs with request/response schemas and examples and start to create initial documentation on SwaggerUI.
-  - Use Git properly (feature branches, meaningful commits) and push to GitHub.
+  - Initialize Flask project (virtual environment, dependencies).
+  - Set up SQLite
+  - Implement basic endpoints:
+    - /items → list all items
+    - /items/add → add new equipment
+  - Start writing OpenAPI (Swagger) documentation.
+  - Improve Git flow using feature branches and organized commits.
 - **Deliverables:**
-  - Running local server with at least create/list working.
-  - Updated `api_documentation.yaml` with examples and parameters.
-  - GitHub repo link (README points to it).
-  - Continue the chapter 3 of `ITCC14 Final Project Doc`
+  - Running Flask server with list and create working for Items.
+  - api_documentation.yaml (or Postman collection) with request/response examples.
+  - README updated with setup instructions.
 - **Checklist:**
-  - [ ] Chapter 3 Of the Project document
-  - [ ] Repo created + initial commit
-  - [ ] Env + dependencies installed
-  - [ ] Create/list endpoints work
-  - [ ] Updated SwaggerUI documentation with examples
-  - [ ] GitHub pushed
+  - [ ] Virtual environment created
+  - [ ] Flask + database installed
+  - [ ] /items GET implemented
+  - [ ] /items/add POST implemented
+  - [ ] Swagger/OpenAPI file created
+  - [ ] Added examples (JSON) to docs
+  - [ ] Updated GitHub repository
 
 ### Milestone 3 (Nov Week 3): Full Backend API
 
