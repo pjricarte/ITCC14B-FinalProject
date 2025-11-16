@@ -3,7 +3,7 @@
 *Lists all your Members here and link their GitHub Profile* 
 <br/>
 Note: **GitHub Profile/name be must your full name or family name for grading** 
-1. [Juan Dela Cruz](https://github.com/sadmann7)
+1. [Daniel Durano](https://github.com/DanielDurano)
 2. [Myrtle Gaston](https://github.com/myrtlegaston)
 3. [Gail Loking](https://github.com/xgigil) 
 4. [Patrice Jessie Ricarte](https://github.com/pjricarte)
