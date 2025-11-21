@@ -70,7 +70,10 @@ Note: **GitHub Profile/name be must your full name or family name for grading**
   - Seed script and instructions in README.
   - OpenAPI spec validated in Swagger Editor (no schema errors).
 - **Checklist:**
+  - [x] Added an amount field to the item document
   - [ ] All endpoints done
+     - [x] /items/<int:item_id> GET implemented
+     - [x] /items/<int:item_id> PATCH implemented
   - [ ] Validation + errors consistent
   - [ ] Seed data added
   - [ ] OpenAPI validated
