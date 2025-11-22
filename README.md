@@ -58,25 +58,25 @@ Note: **GitHub Profile/name be must your full name or family name for grading**
   - [x] Added examples (JSON) to docs
   - [x] Updated GitHub repository
 
-### Milestone 3 (Nov Week 3): Full Backend API
+### Milestone 3 (Nov Week 3): Complete Backend API
 
 - **What you’ll do:**
-  - Complete remaining CRUD and special actions (e.g., claim item).
-  - Add validation and error responses (400/404) consistently.
-  - Seed script with sample data for demos.
-  - Update OpenAPI to match actual responses and edge cases.
+  - Finish implementing the remaining CRUD operations and special features (e.g., claiming an item).
+  - Add proper input validation and consistent error handling (400/404 responses).
+  - Create a seed script to insert demo/sample data.
+  - Update the OpenAPI specification so it matches real responses and edge cases.
 - **Deliverables:**
-  - All planned endpoints implemented and tested locally.
-  - Seed script and instructions in README.
-  - OpenAPI spec validated in Swagger Editor (no schema errors).
+  - All planned API endpoints are fully built and tested locally.
+  - Seed script included along with clear instructions in the README file.
+  - OpenAPI documentation successfully validated using Swagger Editor without schema issues.
 - **Checklist:**
   - [x] Added an amount field to the item document
-  - [ ] All endpoints done
+  - [ ] All endpoints completed
      - [x] /items/<int:item_id> GET implemented
      - [x] /items/<int:item_id> PATCH implemented
-  - [ ] Validation + errors consistent
-  - [ ] Seed data added
-  - [ ] OpenAPI validated
+  - [ ] Validation and error handling standardized
+  - [ ] Sample (seed) data added
+  - [ ] OpenAPI file validated
 
 ### Milestone 4 (Nov Week 4): Frontend Integration
 
